@@ -6,7 +6,7 @@ These public classes are for Tealium clients and prospects to quickly and more c
 
 ###Table of Contents###
 - [Requirements](#requirements)
-- [Cocoapods Integration](#cocoapod-integration)
+- [CocoaPods Integration](#cocoapod-integration)
 - [Manual Integration](#manual-integration)
 - [Swift Bridging](#swift-bridging)
 
@@ -15,7 +15,7 @@ These public classes are for Tealium clients and prospects to quickly and more c
 - Minimum target iOS Version 7.0+ 
 
 
-###Cocoapods Integration###
+###CocoaPods Integration###
 In your project's *podfile*, add the following line:
    
 ```ruby
